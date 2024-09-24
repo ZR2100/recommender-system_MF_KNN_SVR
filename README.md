@@ -45,12 +45,8 @@ Matrix Factorization is the main focus of this project. It involves decomposing 
 
 ## Results
 The results section should include a summary of the performance of each algorithm, with a focus on the Matrix Factorization model. Include plots of training and validation losses, and a comparison of evaluation metrics.
-Results Table
- MAE	   RMAE     MSE	   RMSE	 Algorithm
-0.2554	0.8965	1.2781	1.1305	KNN
-0.3224	1.1316	2.1155	1.4545	DT
-0.2405	0.8444	1.1382	1.0669	SVR
-0.0642	0.0963	0.0078	0.08855	MF
+Results Table:
+
 ![image](https://github.com/user-attachments/assets/c4dda873-67bb-4958-9c43-e1155dad565d)
 
 ## Installation
